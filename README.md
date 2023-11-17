@@ -1,7 +1,7 @@
 # web前端个人简历
 
 #### 介绍
-web前端个人简历：一个追梦在前端路上的小白
+web前端个人简历：一个追梦在软件技术路上的小白
 
 #### 相关技术
 - particles.js粒子插件
@@ -9,7 +9,7 @@ web前端个人简历：一个追梦在前端路上的小白
 
 
 #### 在线预览
-[web前端个人简历：一个追梦在前端路上的小白](http://wttandroid.gitee.io/wttandroid.github.io/)
+[web前端个人简历：一个追梦在软件技术路上的小白]
 
 #### 使用说明
 1.  修改src/config.js内容作为配置文件
@@ -39,7 +39,7 @@ export default {
   page4:{
     // 我的历程
     course:[{
-      date:'2020/6——毕业',// 时间
+      date:'2021/9——毕业',// 时间
       desc:{// 经历
         title:'...',
         list:['...']
